@@ -10,13 +10,13 @@
     </appender>
 
     <appender name="file" class="ch.qos.logback.core.FileAppender">
-        <file>${hakky-hour.log-file:-hakky-hour.log}</file>
+        <file>${presentation-hour.log-file:-presentation-hour.log}</file>
         <encoder>
             <pattern>%date{HH:mm:ss} %-5level [%X{akkaSource}] - %msg%n</pattern>
         </encoder>
     </appender>
 
-    <logger name="com.typesafe.training.hakkyhour" level="debug" additivity="false">
+    <logger name="com.esther" level="debug" additivity="false">
         <appender-ref ref="console"/>
         <appender-ref ref="file"/>
     </logger>

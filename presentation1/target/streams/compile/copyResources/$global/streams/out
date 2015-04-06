@@ -1,5 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/esther/scala/workspace/Presentation1/src/main/resources/application.conf,/home/esther/scala/workspace/Presentation1/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/home/esther/scala/workspace/Presentation1/src/main/resources/logback.xml,/home/esther/scala/workspace/Presentation1/target/scala-2.11/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/home/esther/scala/workspace/Presentation1/src/main/resources/backend1.conf,/home/esther/scala/workspace/Presentation1/target/scala-2.11/classes/backend1.conf)[0m
-[0m[[0mdebug[0m] [0m	(/home/esther/scala/workspace/Presentation1/src/main/resources/backend2.conf,/home/esther/scala/workspace/Presentation1/target/scala-2.11/classes/backend2.conf)[0m

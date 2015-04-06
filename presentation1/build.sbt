@@ -6,7 +6,9 @@ Common.settings
 
 libraryDependencies ++= Dependencies.presentation
 
-initialCommands := """|import com.typesafe.training.hakkyhour._
+initialCommands := """|import com.esther.common._
+                      |import com.esther.presentation._
+                      |import com.esther.presentation.backend_
                       |import akka.actor._
                       |import akka.actor.ActorDSL._
                       |import akka.pattern._
