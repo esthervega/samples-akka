@@ -1,0 +1,8 @@
+exit
+scala FrontEndApp.scala
+run
+run last compile:run
+last compile:run
+run
+exit
+run
