@@ -1,4 +1,4 @@
-package com.esther.common
+package com.neska.common
 
 import akka.actor.ActorLogging
 import akka.actor.Actor

@@ -1,8 +1,8 @@
-package com.esther.presentation.backend
+package com.neska.presentation.backend
 
 import com.typesafe.config.ConfigFactory
 import akka.actor.ActorSystem
-import com.esther.common.{ Simple }
+import com.neska.common.{ Simple }
 import akka.actor.Props
 
 object BackEndApp1 extends App {

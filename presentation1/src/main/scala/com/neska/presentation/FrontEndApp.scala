@@ -1,4 +1,4 @@
-package com.esther.presentation
+package com.neska.presentation
 
 import akka.actor.Actor
 import akka.actor.ActorLogging
@@ -7,7 +7,7 @@ import scala.io.StdIn
 import akka.actor.ActorSystem
 import akka.util.Timeout
 import akka.actor.Props
-import com.esther.common.{ Simple }
+import com.neska.common.{ Simple }
 import com.typesafe.config.ConfigFactory
 
 object FrontEndApp extends App {

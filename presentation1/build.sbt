@@ -6,9 +6,9 @@ Common.settings
 
 libraryDependencies ++= Dependencies.presentation
 
-initialCommands := """|import com.esther.common._
-                      |import com.esther.presentation._
-                      |import com.esther.presentation.backend_
+initialCommands := """|import com.neska.common._
+                      |import com.neska.presentation._
+                      |import com.neska.presentation.backend_
                       |import akka.actor._
                       |import akka.actor.ActorDSL._
                       |import akka.pattern._

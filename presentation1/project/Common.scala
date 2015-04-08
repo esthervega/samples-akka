@@ -9,7 +9,7 @@ object Common {
   val settings =
     scalariformSettings ++ List(
       // Core settings
-      organization := "com.esther.presentation",
+      organization := "com.neska.presentation",
       version := "4.0.0",
       scalaVersion := Version.scala,
       crossScalaVersions := List(scalaVersion.value),
